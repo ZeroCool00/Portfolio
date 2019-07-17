@@ -1,0 +1,45 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+body {
+      font: 400 15px/1.8 Lato, sans-serif;
+      color: #777;
+  }
+
+  .designer1{
+    margin-top: 20px;
+  }
+
+  .bottom{
+    padding-bottom: 20px;
+  }
+
+  footer i{
+    padding: 4px;
+  }
+
+
+ 	h2{
+    font-size: 22px;
+  }
+
+  .imgs{
+    float: left;
+  }
+
+  .texts{
+    padding-top: 5px;
+    font-size: 22px;
+  }
+
+  .arrow{
+    font-size: 16px;
+    padding-left: 52px;
+  }
+
+  .download{
+    padding-top: 5px;
+    float: right;
+  }
+
+
+  
